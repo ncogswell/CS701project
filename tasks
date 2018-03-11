@@ -1,0 +1,23 @@
+Compile shopping list/further research
+Buy shit online
+Read about potential implementations
+List out possibly implementations and discuss advantages and disadvantages
+Make list of short term goals
+Choose initial implementation
+Plan out training data for the 
+
+Priorities HARDWARE:
+Buy components
+Connect Motor
+Connect Ultrasonic sensor
+Connect Webcam
+
+Priorities SOFTWARE:
+General layout of first navigation system
+	Sensor input to steering directions
+		What are the components of our navigation system? NN, FSM, localization
+		What are their responsibilities?
+	(so we know exactly what behavior we want our NN to implement)
+Start collecting training data
+Prepare training data (labeling and whatever else)
+
