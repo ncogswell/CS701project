@@ -1,8 +1,21 @@
-Compile shopping list/further research
-Buy shit online
-Read about potential implementations
-List out possibly implementations and discuss advantages and disadvantages
-Make list of short term goals
-Choose initial implementation
-Plan out training data for the neural network
-  what sort of track we would like to use
+Goal: Compile shopping list
+Actual: Realize our list has been too vague, research how to connect ultrasonic range sensor and motor to raspberry pi and what exactly is needed to connect these.
+
+Goal: Watch Zotti's video.
+Actual: Watched video and took notes on his implementation recommendations (in particular the car setup and neural network setup).
+
+Goal: Finalize and execute shopping list.
+Actual: We picked out and purchased all the items on Amazon for the first purchase pass.
+
+Goal: Plan navigation system implementations.
+Actual: Read a few more papers and wrote down a series of potential implementations ranging in difficulty.
+
+Goal: Get on same page with Casey.
+Actual: Discuss with Casey the list of potential implementations along with any advantages and disadvantages.
+
+Goal: Make a short term plan.
+Actual: Decided with Casey what our first implementation should be and make a list of short and long term goals with details more expanded scope.
+
+Goal: Prepare to train the neural network.
+Actual: Discussed and decided how the track should be laid out so that we can start collecting training data as soon as possible
+
