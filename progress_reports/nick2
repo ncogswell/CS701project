@@ -1,0 +1,10 @@
+Goal: Raspberry pi 101- now that I have the physical item, I want to get familiar with it, learn what it is and how to use it.
+Actual: Read the manual, start guide online, researched the pins on the chip, figured out I have to download the os onto the SD chip, learned how to do that. Use etcher to write to SD, researched what os to put on the drive, 
+
+SSH into pi
+hostname -I
+gets the ip address
+ssh pi@192.168.0.35
+default password is raspberry
+
+load NOOBlite with
