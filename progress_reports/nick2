@@ -8,3 +8,13 @@ ssh pi@192.168.0.35
 default password is raspberry
 
 load NOOBlite with
+
+other goals:
+load os, start up pi
+connect camera
+connect ultrasonic range sensor
+connect motors
+research all of the above
+
+Goal: Setup Pi.
+https://www.raspberrypi.org/forums/viewtopic.php?t=58151
