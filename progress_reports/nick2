@@ -12,6 +12,7 @@ load os, start up pi
 connect camera
 connect ultrasonic range sensor
 connect motors
+ctrl alt F1 to get to CGA conole
 research all of the above
 
 Goal: Setup Pi.
@@ -26,4 +27,26 @@ Actual: Take apart and explore the car parts.
 Goal: Stream video to computer.
 Actual: Connected the webcam, but still having difficulty hosting the stream.
 
+Goal: Stream video to computer.
+Actual: Figured out how to change font size, found correct config file, and researched ssh.
 
+Goal: Fix ssh problem.
+Actual: Go to help desk, redirected to Rick James, messed around for a while, then PJ solved our problem
+
+nmap 140.233.177.0/24 -sL | grep pi
+  finds the IP of pi on 140.233.177
+
+this can only be run on the pi
+on pi
+ssh -R 2222:127.0.0.1:22 castiz@basin.cs.middlebury.edu
+then on other computer
+ssh -p 2222 pi@127.0.0.1
+
+
+
+ps auxww | grep ssh
+netstat -rn
+netstat -tnl
+sudo iptables -nvl
+
+bskari/pi-rc
