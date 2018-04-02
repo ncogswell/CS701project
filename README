@@ -1,2 +1,5 @@
-This is a random README
-Just so I can make a new git repository and share it with Casey
+sshing into the pi
+1) turn on pi, connect keyboard, run ./sshnow.sh (sshn tab)
+2) log into basin on your computer, run ./ssh.sh
+3) profit
+
